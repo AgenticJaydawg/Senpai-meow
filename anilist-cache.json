@@ -1,0 +1,3218 @@
+{
+  "timestamp": 1779463099456,
+  "lastRefreshed": "May 22, 2026, 8:18 AM",
+  "mediaList": [
+    {
+      "id": 147105,
+      "title": {
+        "romaji": "Tongari Boushi no Atelier",
+        "english": "Witch Hat Atelier",
+        "native": "とんがり帽子のアトリエ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+        "color": "#0d8693"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779717600,
+        "episode": 9,
+        "timeUntilAiring": 254502
+      },
+      "popularity": 152857,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/147105",
+      "description": "In a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) <br><br>\n\n<i>Note: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.</i>",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "BUG FILMS"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "rc26AwBXlUE"
+      }
+    },
+    {
+      "id": 158036,
+      "title": {
+        "romaji": "Hidarikiki no Eren",
+        "english": "Eren the Southpaw",
+        "native": "左ききのエレン"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg",
+        "color": "#e4bb28"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779807600,
+        "episode": 8,
+        "timeUntilAiring": 344502
+      },
+      "popularity": 7574,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/158036",
+      "description": "As high school reaches its midpoint, Koichi Asakura—who dreams of studying design at art school—has his plans shaken by explosive graffiti on a museum wall. The artist is Eren Yamagishi, a left-handed girl who buried her talent after a past incident. Drawn together by art, Koichi pursues design as Eren returns to painting, but fear, ambition, and old scars threaten their paths.<br><br>(Source: Crunchyroll)",
+      "genres": [
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Signal.MD"
+          },
+          {
+            "name": "Production I.G"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "EsQudPqDOQQ"
+      }
+    },
+    {
+      "id": 169228,
+      "title": {
+        "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
+        "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
+        "native": "北斗の拳 -FIST OF THE NORTH STAR-"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169228-y79xDpZ29Vv4.jpg",
+        "color": "#f1bb28"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779465600,
+        "episode": 9,
+        "timeUntilAiring": 2502
+      },
+      "popularity": 5127,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/169228",
+      "description": "In the year 199X, the world is engulfed in a nuclear inferno! The seas have vanished. The earth lies in ruins. It seems all life has been wiped out...but humanity has not perished!<br><br>\n\nAcross the scorched and broken land, survivors cling to hope, desperately searching for food and water. However, their hopes are trampled underfoot by violence. Might makes right in this world, and the weak are crushed without mercy.<br><br>\n\nFrom the depths of that despair, a lone man with seven scars on his chest emerges. His name is Kenshiro, heir to the legendary assassination art Hokuto Shinken. As he roams the wasteland in pursuit of his sworn enemy Shin, who stole his fiancée Yuria, Kenshiro answers the cries of the oppressed, becoming a beacon of hope in a world of despair.<br><br>\n\nStanding in his path are brutal survivors of the apocalypse, their ambitions twisted by power and greed. In a world where the weak are prey and prayers go unheard, Kenshiro forges a path with his iron fists!<br><br>\n\n(Source: Official Website)",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Gux_dYHDMK4"
+      }
+    },
+    {
+      "id": 169580,
+      "title": {
+        "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+        "english": "I Made Friends with the Second Prettiest Girl in My Class",
+        "native": "クラスで２番目に可愛い女の子と友だちになった"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+        "color": "#f1bb50"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779805800,
+        "episode": 8,
+        "timeUntilAiring": 342702
+      },
+      "popularity": 58358,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/169580",
+      "description": "Maki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "CONNECT"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "3mTUxCIyJhA"
+      }
+    },
+    {
+      "id": 170019,
+      "title": {
+        "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+        "english": "The Angel Next Door Spoils Me Rotten2",
+        "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
+        "color": "#e4d628"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780061400,
+        "episode": 9,
+        "timeUntilAiring": 598302
+      },
+      "popularity": 61486,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/170019",
+      "description": "The second season of <i>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</i>.\n<br><br>\nNow a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.\n<br><br>\n(Source: Crunchyroll News)\n<br><br>\n<i>Note: Crunchyroll has labeled the English title under the name \"The Angel Next Door Spoils Me Rotten2\", so while it seems erroneous for the title not to have a space between the name and 2, it is what the series is officially labeled as.</i>",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "project No.9"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "8Gtb1uhjPKs"
+      }
+    },
+    {
+      "id": 171110,
+      "title": {
+        "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+        "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+        "native": "本好きの下剋上 領主の養女"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+        "color": "#5daee4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779525000,
+        "episode": 7,
+        "timeUntilAiring": 61902
+      },
+      "popularity": 29170,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/171110",
+      "description": "Anime adaptation of Part 3 of <i>Honzuki no Gekokujou</i>.\n<br><br>\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n<br><br>\n(Source: J-Novel Club) ",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "WIT STUDIO"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "rtPF6rjrdSU"
+      }
+    },
+    {
+      "id": 173172,
+      "title": {
+        "romaji": "Dorohedoro Season 2",
+        "english": "Dorohedoro Season 2",
+        "native": "ドロヘドロ Season 2"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173172-404XnuOS0DhR.jpg",
+        "color": "#e4861a"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779890400,
+        "episode": 11,
+        "timeUntilAiring": 427302
+      },
+      "popularity": 35182,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/173172",
+      "description": "The second season of <i>Dorohedoro</i>. <br><br>\n\nThe anarchy continues as Caiman inches closer to the truth behind his cursed appearance and the mystery around the Cross-Eyes' boss begins to unravel. <br><br> \n\n(Source: Netflix Anime)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MAPPA"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "GHjCjHAKo9c"
+      }
+    },
+    {
+      "id": 177501,
+      "title": {
+        "romaji": "Awajima Hyakkei",
+        "english": "A Hundred Scenes of AWAJIMA",
+        "native": "淡島百景"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-lLkxUFVZ8uAj.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
+        "color": "#e4c9a1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779986700,
+        "episode": 8,
+        "timeUntilAiring": 523602
+      },
+      "popularity": 10763,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/177501",
+      "description": "At Awajima Opera School, girls from across Japan strive to earn a place on stage. Wakana is driven by her love of musical theater, while Kinue studies with quiet discipline. Scholarship student Emi draws attention from all—but especially from Keiko, who struggles with admiration and comparison. Through shifting perspectives, their intertwined days explore ambition, friendship, and self-discovery.\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "9OWMV9XrZ8k"
+      }
+    },
+    {
+      "id": 177508,
+      "title": {
+        "romaji": "Kujima Utaeba Ie Hororo",
+        "english": "Kujima: Why Sing, When You Can Warble?",
+        "native": "クジマ歌えば家ほろろ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177508-Ajz9UrU5SsQ0.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177508-Ajz9UrU5SsQ0.jpg",
+        "color": "#e4ae1a"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779975000,
+        "episode": 8,
+        "timeUntilAiring": 511902
+      },
+      "popularity": 3916,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/177508",
+      "description": "In the fall of his first year of junior high school, Arata Kouda encountered a strange thing----. In this home comedy, a mysterious creature named “Kujima” brings new life to the Konohda family, where the atmosphere is slightly tense due to the concern for the eldest son, a ronin student who is preparing for the entrance examinations! By the way, the creature, who calls himself Kujima, speaks normal language and eats the same food as humans (or insects). Did he come from outer space, or did he...!<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Hibari"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "rc17AA0hVI8"
+      }
+    },
+    {
+      "id": 177634,
+      "title": {
+        "romaji": "Diamond no Ace act II: Second Season",
+        "english": "Ace of the Diamond act II -Second Season-",
+        "native": "ダイヤのA actII -Second Season-"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
+        "color": "#1aa1e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779611400,
+        "episode": 8,
+        "timeUntilAiring": 148302
+      },
+      "popularity": 7371,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/177634",
+      "description": "The Seido baseball club heads to the spring invitational for an ultimate, heated baseball game!\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "dPWuN1uP09g"
+      }
+    },
+    {
+      "id": 178749,
+      "title": {
+        "romaji": "Mahou no Shimai LuluttoLilly",
+        "english": "Magical Sisters LuluttoLilly",
+        "native": "魔法の姉妹ルルットリリィ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178749-c0tx9p13PVJy.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-c0tx9p13PVJy.png",
+        "color": "#435de4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779629400,
+        "episode": 8,
+        "timeUntilAiring": 166302
+      },
+      "popularity": 4372,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/178749",
+      "description": "Fuu and Rui are two sisters who used to be close, but have been a bit distant from each other recently. One day, Fuu encounters a mysterious spaceship and gains magical powers. At that same time, Rui also gains magical powers, and both transform into the adults they dream to be. The sisters' powers come with two conditions: their magic powers can only be used in one year, and no one must know about it. Unaware of each other's secrets, Fuu and Rui become active as idols. \n<br><br>\n(Source: Anime News Network, edited)",
+      "genres": [
+        "Mahou Shoujo"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Pierrot"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "7oNuxIfJqiI"
+      }
+    },
+    {
+      "id": 179813,
+      "title": {
+        "romaji": "Niwatori Fighter",
+        "english": "Rooster Fighter",
+        "native": "ニワトリ・ファイター"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
+        "color": "#e45d43"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779595200,
+        "episode": 11,
+        "timeUntilAiring": 132102
+      },
+      "popularity": 18903,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/179813",
+      "description": "Keiji, the neighborhood cock of the walk is more than just an ordinary rooster—he’s humanity’s greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—<i>Kokekokko!</i>\n<br><br>\n(Source: VIZ Media, edited)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "SANZIGEN"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "5hRrvJ08ZSs"
+      }
+    },
+    {
+      "id": 179950,
+      "title": {
+        "romaji": "Reincarnation no Kaben",
+        "english": "Petals of Reincarnation",
+        "native": "リィンカーネーションの花弁"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+        "color": "#0d8686"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779982200,
+        "episode": 9,
+        "timeUntilAiring": 519102
+      },
+      "popularity": 26440,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/179950",
+      "description": "Touya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!\n<br><br>\n(Source: Mangamo, edited)",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "BENTEN Film"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "PmcTPE2SrE8"
+      }
+    },
+    {
+      "id": 180228,
+      "title": {
+        "romaji": "Ganbare! Nakamura-kun!!",
+        "english": "Go For It, Nakamura-kun!!",
+        "native": "ガンバレ！中村くん！！"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
+        "color": "#f15086"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779895800,
+        "episode": 10,
+        "timeUntilAiring": 432702
+      },
+      "popularity": 23087,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/180228",
+      "description": "Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i>",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Drive"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "QivWH79PkcE"
+      }
+    },
+    {
+      "id": 180745,
+      "title": {
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+        "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+        "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
+        "color": "#aec9e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779885000,
+        "episode": 12,
+        "timeUntilAiring": 421902
+      },
+      "popularity": 88004,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/180745",
+      "description": "The fourth season of <i> Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br>\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n<br><br>\n(Source: Seven Seas)",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Lerche"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "kAncxuwCPZg"
+      }
+    },
+    {
+      "id": 181284,
+      "title": {
+        "romaji": "Kirio Fanclub",
+        "english": "Kirio Fan Club",
+        "native": "霧尾ファンクラブ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181284-JJafhd5gDT53.jpg",
+        "color": "#5da1e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779981960,
+        "episode": 9,
+        "timeUntilAiring": 518862
+      },
+      "popularity": 7825,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/181284",
+      "description": "For Aimi and Nami, the answer is to cry tears of joy for being able to pinpoint at a distance the object of their affections, Kirio, from a single toot. These are the kinds of deep, philosophical questions the two friends/rivals in romance pose to each other to prove their love for this boy who hardly seems to know they exist. That won’t stop them from conducting nightly rituals to entice him into their dreams, though, or listing out what exactly they like about him, down to the very last organ. But when push comes to shove, will they choose their hilarious friendship over a shot at love? \n<br><br>\n(Source: Kodansha USA)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Satelight"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "n3c6bAOhVUg"
+      }
+    },
+    {
+      "id": 182205,
+      "title": {
+        "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+        "english": "That Time I Got Reincarnated as a Slime Season 4",
+        "native": "転生したらスライムだった件 第4期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+        "color": "#1abbd6"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780063200,
+        "episode": 8,
+        "timeUntilAiring": 600102
+      },
+      "popularity": 89133,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/182205",
+      "description": "The fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "8-bit"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "ikxIrDr72iA"
+      }
+    },
+    {
+      "id": 182300,
+      "title": {
+        "romaji": "Tsue to Tsurugi no Wistoria Season 2",
+        "english": "Wistoria: Wand and Sword Season 2",
+        "native": "杖と剣のウィストリア Season2"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
+        "color": "#e4a150"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779607800,
+        "episode": 7,
+        "timeUntilAiring": 144702
+      },
+      "popularity": 78687,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/182300",
+      "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Actas"
+          },
+          {
+            "name": "Bandai Namco Pictures"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "57OL0uTIBVg"
+      }
+    },
+    {
+      "id": 182483,
+      "title": {
+        "romaji": "Hime Kishi wa Barbaroi no Yome",
+        "english": "The Warrior Princess and the Barbaric King",
+        "native": "姫騎士は蛮族の嫁"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
+        "color": "#50bbf1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779971400,
+        "episode": 8,
+        "timeUntilAiring": 508302
+      },
+      "popularity": 37534,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/182483",
+      "description": "Serafina, the West’s fiercest knight, expected torture when captured by barbarians. Instead, she got a marriage proposal! Marrying her sworn enemy is a hard no! But after seeing her wedding captor’s culture and very pretty face, she may be tempted to swap her sword for a wedding veil. Get ready for the ultimate enemies-to-maybe-lovers arc.\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Jumondou"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "oGSDv7XSZA4"
+      }
+    },
+    {
+      "id": 182578,
+      "title": {
+        "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+        "english": "Mission: Yozakura Family Season 2",
+        "native": "夜桜さんちの大作戦 第2期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
+        "color": "#50d6e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779609600,
+        "episode": 7,
+        "timeUntilAiring": 146502
+      },
+      "popularity": 18849,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/182578",
+      "description": "The second season of <i>Yozakura-san Chi no Daisakusen</i>.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "SILVER LINK."
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "dirydQCBa6o"
+      }
+    },
+    {
+      "id": 183231,
+      "title": {
+        "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+        "english": "RILAKKUMA",
+        "native": "リラックマ ～ごゆるり夢の旅～"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+        "color": "#28c9e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779495960,
+        "episode": 8,
+        "timeUntilAiring": 32862
+      },
+      "popularity": 1230,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/183231",
+      "description": "Everyday life gets a cozy twist with the laid-back Rilakkuma. Gentle moments of friendship, change, and small joys unfold, turning ordinary moments into something quietly magical—one soft, comforting day at a time.\n<br><br>\nIt's a moment that will make your heart feel lighter and lighter. No matter where you are or what you're doing, Rilakkuma will be by your side. An exciting new story begins! Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!<br><br>\n(Source: Crunchyroll, Rilakkuma Anime Site, translated)",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Production I.G"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "rV-fcFL5vtU"
+      }
+    },
+    {
+      "id": 184492,
+      "title": {
+        "romaji": "Mairimashita! Iruma-kun 4",
+        "english": "Welcome to Demon School! Iruma-kun Season 4",
+        "native": "魔入りました！入間くん 第4シリーズ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+        "color": "#f1bb28"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779528360,
+        "episode": 8,
+        "timeUntilAiring": 65262
+      },
+      "popularity": 29813,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "description": "The fourth season of <i>Mairimashita! Iruma-kun.</i>\n<br><br>\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br>\n(Source: Crunchyroll News)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Bandai Namco Pictures"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "6Lo1DUCY9nY"
+      }
+    },
+    {
+      "id": 185211,
+      "title": {
+        "romaji": "Yowa Yowa Sensei",
+        "english": "Yowayowa Sensei",
+        "native": "よわよわ先生"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
+        "color": "#f1bbae"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779539400,
+        "episode": 7,
+        "timeUntilAiring": 76302
+      },
+      "popularity": 17547,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/185211",
+      "description": "High school homeroom teacher Hiyori Hiwamura is known as the “Scary Teacher,” and if you offend her, she’ll put a curse on you! Or at least that’s what everyone believes. She’s secretly a total softy who’s deeply misunderstood, and once you see her sweet side, she’ll put a different kind of spell on you... Unfortunately, one of her students, Akihito Abikura, has accidentally discovered her secret.\n<br><br>\n(Source: HIDIVE)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Brain's Base"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "UfkutRs8RHM"
+      }
+    },
+    {
+      "id": 186497,
+      "title": {
+        "romaji": "Koori no Jouheki",
+        "english": "The Ramparts of Ice",
+        "native": "氷の城壁"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+        "color": "#e49343"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779980160,
+        "episode": 9,
+        "timeUntilAiring": 517062
+      },
+      "popularity": 42517,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/186497",
+      "description": "Socially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n<BR><BR>\nThe loner Koyuki, the popular Miki, the boundary-less Minato, and the kind basketball player Youta. This is the story about four complicated and confused young people and their mixed up lives!\n<BR><BR>\n(Source: Margaret, translated)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio KAI"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "a7ah5by0Ffw"
+      }
+    },
+    {
+      "id": 186744,
+      "title": {
+        "romaji": "Replica Datte, Koi wo Suru.",
+        "english": "Even a Replica Can Fall in Love",
+        "native": "レプリカだって、恋をする"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg",
+        "color": "#f1f1c9"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779805800,
+        "episode": 8,
+        "timeUntilAiring": 342702
+      },
+      "popularity": 12327,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/186744",
+      "description": "When she doesn’t feel well, when there’s a test, when she doesn’t want to go to school... I take her place. I’m her replica. I’m not meant for anything else. But that changed when I fell in love. I wear my hair up so the boy I fell for knows it’s me. We skip school and promise to meet again tomorrow, and every day after. I’m her replica. Everything about me is borrowed and empty, but my heart is mine.<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Voil"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "WsT7OO91jXo"
+      }
+    },
+    {
+      "id": 187869,
+      "title": {
+        "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "english": "Botan Kamiina Fully Blossoms When Drunk",
+        "native": "上伊那ぼたん、酔へる姿は百合の花"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187869-LUn3dyTzuKUq.jpg",
+        "color": null
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780066800,
+        "episode": 8,
+        "timeUntilAiring": 603702
+      },
+      "popularity": 23967,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/187869",
+      "description": "New university life, new dormmates…and a whole new world of drinks! Botan Kamiina takes her first sip of alcohol after spotting the quiet dorm leader, Ibuki Tonami, enjoying a highball alone. From shochu to whisky, Botan shares the joy of drinking with friends, while Ibuki slowly learns that some pleasures are better when shared.\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Soigne"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "XX90FklAWsc"
+      }
+    },
+    {
+      "id": 189046,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 4",
+        "native": "Re:ゼロから始める異世界生活 4th season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+        "color": "#e49350"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779886800,
+        "episode": 8,
+        "timeUntilAiring": 423702
+      },
+      "popularity": 94688,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/189046",
+      "description": "The fourth season of <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>.<br><br>\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.<br><br>\n\n(Source: Crunchyroll News)\n\n<br><br>\n<i>Note: Episode 1 pre-screened at Lucca Comics & Games on November 1, 2025, before the Japanese television broadcast.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "WHITE FOX"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "i8EjBP85cCc"
+      }
+    },
+    {
+      "id": 189987,
+      "title": {
+        "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+        "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+        "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+        "color": "#e4c950"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779719040,
+        "episode": 8,
+        "timeUntilAiring": 255942
+      },
+      "popularity": 24136,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/189987",
+      "description": "Sakuradaimon is the school's prefect. A prefect is a student who is authorized to enforce discipline. As a prefect, he's supposed to be a role model to other students, but unfortunately he's not perfect. Kohinata is one of the people who Sakuradaimon has tried to discipline into wearing appropriate school attire, but she has thusfar been disobedient.<br>\n<br>\nAnd so this is a story of the two interacting with one another.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Zero-G"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "jrWzZGBwWBQ"
+      }
+    },
+    {
+      "id": 190143,
+      "title": {
+        "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+        "english": "Agents of the Four Seasons: Dance of Spring",
+        "native": "春夏秋冬代行者 春の舞"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+        "color": "#e4865d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779548400,
+        "episode": 9,
+        "timeUntilAiring": 85302
+      },
+      "popularity": 33909,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/190143",
+      "description": "When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "WIT STUDIO"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "3NdlPDtfZU4"
+      }
+    },
+    {
+      "id": 190704,
+      "title": {
+        "romaji": "Kanan-sama wa Akumade Choroi",
+        "english": "Mistress Kanan is Devilishly Easy",
+        "native": "カナン様はあくまでチョロい"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
+        "color": "#3586ff"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779552000,
+        "episode": 8,
+        "timeUntilAiring": 88902
+      },
+      "popularity": 34147,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/190704",
+      "description": "Kanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br>\n<br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio KAI"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "y6whkkkv6kU"
+      }
+    },
+    {
+      "id": 192808,
+      "title": {
+        "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+        "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+        "native": "自称悪役令嬢な婚約者の観察記録。"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+        "color": "#5da1e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780059600,
+        "episode": 9,
+        "timeUntilAiring": 596502
+      },
+      "popularity": 19728,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/192808",
+      "description": "Bertia is reincarnated into her favorite otome game—not as the heroine, but as the villainess engaged to the perfect Crown Prince Cecil! Fully aware that her role is to sabotage his future romance, she’s determined to bloom as a wicked flower and wither away according to the story. But no matter how hard she tries to scheme, her “evil” plans only make her more endearing!<br>\n<br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. was streamed 3 days in advance of the TV broadcast on Prime Video, and Crunchyroll beginning April 3, 2026. Regular broadcasting began on April 6, 2026.</i>",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Ashi Productions"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "r6RkeRy4B4c"
+      }
+    },
+    {
+      "id": 194317,
+      "title": {
+        "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+        "english": "The Beginning After the End Season 2",
+        "native": "最強の王様、二度目の人生は 何をする? 第2期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+        "color": "#e49335"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779892200,
+        "episode": 9,
+        "timeUntilAiring": 429102
+      },
+      "popularity": 35542,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/194317",
+      "description": "The second season of <i>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?</i>\n<br><br>\nArthur faces one last mission with Jasmine, but the quest unleashes a tragedy no one saw coming.\n<br><br>\n(Source: Crunchyoll News)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "studio A-CAT"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "embD4ae1ufk"
+      }
+    },
+    {
+      "id": 194393,
+      "title": {
+        "romaji": "Aishiteru Game wo Owarasetai",
+        "english": "I Want to End this Love Game",
+        "native": "愛してるゲームを終わらせたい"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+        "color": "#43aef1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779804000,
+        "episode": 7,
+        "timeUntilAiring": 340902
+      },
+      "popularity": 35298,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/194393",
+      "description": "Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?\n<br><br>\n(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Felix Film"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "oGJrnyjDbsA"
+      }
+    },
+    {
+      "id": 195268,
+      "title": {
+        "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+        "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+        "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195268-HkEv0z9iTCJK.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+        "color": "#e4c928"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779800400,
+        "episode": 8,
+        "timeUntilAiring": 337302
+      },
+      "popularity": 16503,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/195268",
+      "description": "The second season of <i>Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.</i>",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "D7q29ONkOsY"
+      }
+    },
+    {
+      "id": 195333,
+      "title": {
+        "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+        "english": "Haibara's Teenage New Game+",
+        "native": "灰原くんの強くて青春ニューゲーム"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
+        "color": "#1aa1ff"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779985680,
+        "episode": 9,
+        "timeUntilAiring": 522582
+      },
+      "popularity": 17257,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/195333",
+      "description": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He’ll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!\n<br><br>\n(Source: J-Novel Club)\n<br><br>\n<i>Note: The first 4 episodes had an advance screening on March 15th, 2026. The start date reflects the start of the regular series broadcasting.</i>\n\n",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Comet"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "MPJrey_y_DU"
+      }
+    },
+    {
+      "id": 195600,
+      "title": {
+        "romaji": "Yomi no Tsugai",
+        "english": "Daemons of the Shadow Realm",
+        "native": "黄泉のツガイ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+        "color": "#e49335"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779546600,
+        "episode": 8,
+        "timeUntilAiring": 83502
+      },
+      "popularity": 90352,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/195600",
+      "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones film"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "XCyj9KKKjUI"
+      }
+    },
+    {
+      "id": 195734,
+      "title": {
+        "romaji": "Ichijouma Mankitsu-gurashi!",
+        "english": "Ichijyoma Mankitsu Gurashi!",
+        "native": "一畳間まんきつ暮らし！"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195734-submxAA36thQ.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195734-submxAA36thQ.jpg",
+        "color": "#f1c993"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779555600,
+        "episode": 7,
+        "timeUntilAiring": 92502
+      },
+      "popularity": 7391,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/195734",
+      "description": "High school girl in the manga cafe! Meiko is a countryside girl who enters a rich girls' school. All expenses will be paid if she participates in activities... But who knew it would mean live-in work in a manga cafe?! Living in a small manga cafe booth turns out not to be so bad! Would you like to have your fill of the manga cafe staffed by cute high school girls?<br><br>\n(Source: Bookwalker, translated)",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "PRA"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "4P2dc6mphS4"
+      }
+    },
+    {
+      "id": 196012,
+      "title": {
+        "romaji": "MAO",
+        "english": "MAO",
+        "native": "MAO"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+        "color": "#f1935d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779547560,
+        "episode": 8,
+        "timeUntilAiring": 84462
+      },
+      "popularity": 14593,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/196012",
+      "description": "<b>A curse that binds past and present.</b>\n<br><br>\nMao, a young mystic who lives in the Taisho period of early 1900s Japan, is a mysterious onmyoji who, after suffering a life-altering curse, has continued to live for nine hundred long years. His world becomes even stranger when he meets Nanoka Kiba, a junior high schooler who seems to have traveled from the future. In spite of her tender years, Nanoka has lived a strange life herself, marked by her traumatic experience as a young child losing both her parents to a grisly accident. But when Nanoka decides to return to that fateful shopping arcade, she is transported to another time and place - a world where supernatural ayakashi thrive in an era long before her own. There she meets Mao, whose abrupt and bizarre question prompts Nanoka to see herself and her curious life in a completely new light. Now the two travelers from different worlds unite as they take on the dark powers that grip both their lives.\n<br><br>(Source: VIZ Media, Hulu, edited)",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "eVfpoS0rjw0"
+      }
+    },
+    {
+      "id": 196029,
+      "title": {
+        "romaji": "Kami no Niwatsuki Kusunoki-tei ",
+        "english": "Kusunoki's Garden of Gods",
+        "native": "神の庭付き楠木邸"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
+        "color": "#e45043"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779553800,
+        "episode": 8,
+        "timeUntilAiring": 90702
+      },
+      "popularity": 13274,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/196029",
+      "description": "Minato Kusunoki is assigned to manage his family’s haunted, abandoned countryside estate. However, thanks to his overwhelming spiritual power, Minato accidentally purifies the entire place, turning the once-cursed property into a peaceful haven for wandering gods and deities! As Minato settles in, he finds himself surrounded by quirky divine neighbors and the lively chaos of life among the gods.\n<br><br>\n (Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "JUVENAGE"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "3FxoxWjrrVg"
+      }
+    },
+    {
+      "id": 196144,
+      "title": {
+        "romaji": "Snowball Earth",
+        "english": "SNOWBALL EARTH",
+        "native": "スノウボールアース"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+        "color": "#f1c950"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780065000,
+        "episode": 9,
+        "timeUntilAiring": 601902
+      },
+      "popularity": 10028,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/196144",
+      "description": "\"Yukio... I'm going to make a friend.\" A shy boy named Tetsuo. The only thing he had was a giant robot named Yukio. They became \"saviors\" in the fight against the galactic monsters coming from outer space. After the final battle, Tetsuo returns to Earth for the first time in ten years and witnesses an astonishing world. It's a frozen Earth (named Snowball Earth), where the entire land is covered in snow and ice, being turned into a deadly world! What happened to the human race? And will Tetsuo be able to fulfill the promise he made to Yukio?<br><br>\n(Source: Shogakukan, translated)",
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio KAI"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "0vTK8SWTgws"
+      }
+    },
+    {
+      "id": 196840,
+      "title": {
+        "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
+        "english": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
+        "native": "嫌な顔されながらおパンツ見せてもらいたいR（リターンズ）"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196840-9l084Fis4fYF.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196840-9l084Fis4fYF.png",
+        "color": "#f1bba1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779973200,
+        "episode": 5,
+        "timeUntilAiring": 510102
+      },
+      "popularity": 5980,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/196840",
+      "description": "To commemorate the 10th anniversary of the original work, a new anime series will be produced!<br><br>\n(Source: Official Website, translated)",
+      "genres": [
+        "Ecchi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "UWAN Pictures"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "HId-_WNsKZg"
+      }
+    },
+    {
+      "id": 196935,
+      "title": {
+        "romaji": "Akane-banashi",
+        "english": "Akane-banashi",
+        "native": "あかね噺"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+        "color": "#e4785d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779546600,
+        "episode": 8,
+        "timeUntilAiring": 83502
+      },
+      "popularity": 31039,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/196935",
+      "description": "<i>\"With only your voice and body—master the art.\"</i><br><br>\n\nAkane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).<br><br>\n\nSix years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.<br><br>\nA passionate and authentic rakugo drama begins now!\n<br><br>\n(Source: TV Asahi, edited)",
+      "genres": [
+        "Drama"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ZEXCS"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "PZJAOQ-7iJ8"
+      }
+    },
+    {
+      "id": 196974,
+      "title": {
+        "romaji": "Kuroneko to Majo no Kyoushitsu",
+        "english": "The Classroom of the Black Cat and a Witch",
+        "native": "黒猫と魔女の教室"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+        "color": "#50aef1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779633000,
+        "episode": 7,
+        "timeUntilAiring": 169902
+      },
+      "popularity": 16368,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/196974",
+      "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
+      "genres": [
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "LIDENFILMS"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "uJhshLlQs60"
+      }
+    },
+    {
+      "id": 197754,
+      "title": {
+        "romaji": "LIAR GAME",
+        "english": "LIAR GAME",
+        "native": "LIAR GAME"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+        "color": null
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779721200,
+        "episode": 8,
+        "timeUntilAiring": 258102
+      },
+      "popularity": 31327,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/197754",
+      "description": "Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of \"a foolishly honest girl\". This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "MADHOUSE"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "FIPOXj00ysQ"
+      }
+    },
+    {
+      "id": 197824,
+      "title": {
+        "romaji": "Isekai Nonbiri Nouka 2",
+        "english": "Farming Life in Another World 2",
+        "native": "異世界のんびり農家２"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+        "color": "#ae7835"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779715800,
+        "episode": 8,
+        "timeUntilAiring": 252702
+      },
+      "popularity": 36618,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/197824",
+      "description": "The second season of <i>Isekai Nonbiri Nouka</i>.\n<br><br>\n\n<i>Note: World premiere of Episode 1 before the Japanese television premiere occurred at ANIMONIUM in Bangkok February 8, 2026</i>",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Zero-G"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "8LPyvgi9hOM"
+      }
+    },
+    {
+      "id": 197868,
+      "title": {
+        "romaji": "Maid-san wa Taberu dake",
+        "english": "The Food Diary of Miss Maid",
+        "native": "メイドさんは食べるだけ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
+        "color": "#e49343"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779627600,
+        "episode": 9,
+        "timeUntilAiring": 164502
+      },
+      "popularity": 9521,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/197868",
+      "description": "What’s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Maid-san wa Taberu dake was streamed a week in advance on dAnimestore, ABEMA, and U-Next starting with episode 2. Episode 1 was streamed on April 1, 2026. Regular broadcasting began on April 5, 2026.</i>",
+      "genres": [
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "EMT Squared"
+          },
+          {
+            "name": "Magic Bus"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "lPLmZANPhrM"
+      }
+    },
+    {
+      "id": 198113,
+      "title": {
+        "romaji": "Kill Ao",
+        "english": "KILL BLUE",
+        "native": "キルアオ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+        "color": "#50aefe"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779544800,
+        "episode": 7,
+        "timeUntilAiring": 81702
+      },
+      "popularity": 26395,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/198113",
+      "description": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br>\n\nBefore he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br>\n\nWhat awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br>\n(Source: Official Site)",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "CUE"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "9sEiONbweqI"
+      }
+    },
+    {
+      "id": 198411,
+      "title": {
+        "romaji": "Nezumi-kun no Chokki (TV)",
+        "english": null,
+        "native": "ねずみくんのチョッキ (TV)"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198411-FuPLk3KBEoFH.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
+        "color": "#c95050"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779496200,
+        "episode": 8,
+        "timeUntilAiring": 33102
+      },
+      "popularity": 124,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/198411",
+      "description": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Creadom8"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "_gP6XPIBgmo"
+      }
+    },
+    {
+      "id": 198939,
+      "title": {
+        "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+        "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+        "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198939-95aqzBr0Lzcv.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
+        "color": "#e49328"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779886800,
+        "episode": 9,
+        "timeUntilAiring": 423702
+      },
+      "popularity": 11837,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/198939",
+      "description": "The third season of <i>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.</i>",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "AXsiZ"
+          },
+          {
+            "name": "Studio Gokumi"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "pxeYbPg5JIA"
+      }
+    },
+    {
+      "id": 199029,
+      "title": {
+        "romaji": "Kanojo, Okarishimasu 5th Season",
+        "english": "Rent-a-Girlfriend Season 5",
+        "native": "彼女、お借りします 第5期"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+        "color": "#5dd6f1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779886800,
+        "episode": 8,
+        "timeUntilAiring": 423702
+      },
+      "popularity": 16416,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/199029",
+      "description": "The fifth season of <i>Kanojo, Okarishimasu</i>.\n<br><br>\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.</i>",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "_yVyIweMYto"
+      }
+    },
+    {
+      "id": 199221,
+      "title": {
+        "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
+        "english": "Dr. STONE SCIENCE FUTURE Cour 3",
+        "native": "Dr.STONE SCIENCE FUTURE 3クール"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
+        "color": "#e4d6ae"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779973200,
+        "episode": 9,
+        "timeUntilAiring": 510102
+      },
+      "popularity": 57646,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/199221",
+      "description": "The third and final cour of the fourth season of <i>Dr.STONE</i>.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Ox8hatPxyiQ"
+      }
+    },
+    {
+      "id": 199547,
+      "title": {
+        "romaji": "MARRIAGETOXIN",
+        "english": "MARRIAGETOXIN",
+        "native": "マリッジトキシン"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
+        "color": "#1ae4f1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779804000,
+        "episode": 8,
+        "timeUntilAiring": 340902
+      },
+      "popularity": 56548,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/199547",
+      "description": "For centuries, the deadly arts have been perfected by those known as the Masters.\nAmong them, the Poison Masters of the Five Great Families hold the most fearsome power and influence. \nHikaru Gero, heir to the Poison Masters’ Gero Family, has lived his entire life in the underworld, far removed from love or marriage.\nBut when the Gero Family head decrees that Hikaru’s sister must bear an heir to preserve the bloodline—by force if necessary—Hikaru resolves to protect her at all costs.\nIt is then that Hikaru encounters Mei Kinosaki, a brilliant marriage swindler who becomes the target of his latest job.\nRealizing that the only way of solving the family succession problem and protecting his sister is through marriage, Hikaru impulsively asks Mei for help in finding a bride.\n<br><br>\n(Source: EMOTION Label Channel)",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "bones film"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "t0Ruh2QBpqg"
+      }
+    },
+    {
+      "id": 199588,
+      "title": {
+        "romaji": "Otaku ni Yasashii Gal wa Inai!?",
+        "english": "Gals Can't Be Kind to Otaku!?",
+        "native": "オタクに優しいギャルはいない!?"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
+        "color": "#e4c9a1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779893100,
+        "episode": 8,
+        "timeUntilAiring": 430002
+      },
+      "popularity": 45082,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/199588",
+      "description": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n<br><br>\n(Source: Yen Press)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TMS Entertainment"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "pdWQUnshA4M"
+      }
+    },
+    {
+      "id": 200769,
+      "title": {
+        "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+        "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+        "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+        "color": "#5dbbf1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779546600,
+        "episode": 9,
+        "timeUntilAiring": 83502
+      },
+      "popularity": 26487,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/200769",
+      "description": "Hibiki, a high school student who was suddenly transferred to another world, wanders alone in a vast grassland of a fantasy world where monsters inhabit. All he has are non-combat skills such as \"Appraisal\"! From a hopeless situation, he is saved by encounters, and his all-powerful abilities blossom! An another world adventure tale of miraculous reversal cheats burst forth!\n<br><br>\n(Source: Alpha Manga)\n<br><br>\n<i>Note: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? was streamed a week in advance of the TV broadcast on dAnimestore, and ABEMA starting with episode 2. The first episode was released on April 2, 2026. Regular broadcasting began on April 4, 2026.</i>",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Flad"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "f3QbevP2CG0"
+      }
+    },
+    {
+      "id": 201090,
+      "title": {
+        "romaji": "Ghost Concert: missing Songs",
+        "english": "GHOST CONCERT : missing Songs",
+        "native": "ゴーストコンサート: missing Songs"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg",
+        "color": "#e4ae50"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779636600,
+        "episode": 8,
+        "timeUntilAiring": 173502
+      },
+      "popularity": 3447,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/201090",
+      "description": "The year is 2045, in a world where songs have been banned. Instead of humans playing instruments and creating music, a music app titled \"MiucS\" is in charge of these things. High school student Seria goes out with her friends one day, but she happens to hear someone singing, which is supposed to be prohibited. What she finds is a lone ghost, a \"Great Ghost\" who has appeared from outside this world. Now Seria must decide whether to stay silent or risk everything to bring music back to the world.\n<br><br>\n(Source: Anime News Network, Crunchyroll, edited)",
+      "genres": [
+        "Action",
+        "Music",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ENGI"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "4_CsA45Rsnk"
+      }
+    },
+    {
+      "id": 201817,
+      "title": {
+        "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+        "english": "Always a Catch!",
+        "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
+        "color": "#5dbbf1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779894000,
+        "episode": 9,
+        "timeUntilAiring": 430902
+      },
+      "popularity": 15479,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/201817",
+      "description": "Born into a legendary ducal family, martial prodigy Maria “Mimi” Annovazzi loses her claim as heir and is suddenly ordered to marry into prestige. With no options left in her homeland, she transfers to a neighboring kingdom—only to be publicly dumped at graduation by a prince she’s never met over an engagement she didn’t even know she had! Will Maria be doomed to the life of a spinster?!<Br><br>(Source: Crunchyroll)",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "TROYCA"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "d0LkNAqMrZw"
+      }
+    },
+    {
+      "id": 201910,
+      "title": {
+        "romaji": "Oshiri Dandy the Young",
+        "english": null,
+        "native": "おしりダンディ ザ・ヤング"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201910-yulAeyMQbbvw.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201910-yulAeyMQbbvw.png",
+        "color": "#50d6fe"
+      },
+      "nextAiringEpisode": null,
+      "popularity": 101,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/201910",
+      "description": null,
+      "genres": [],
+      "studios": {
+        "nodes": []
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "ClHFIN462aw"
+      }
+    },
+    {
+      "id": 202102,
+      "title": {
+        "romaji": "NEEDY GIRL OVERDOSE",
+        "english": "NEEDY GIRL OVERDOSE",
+        "native": "NEEDY GIRL OVERDOSE"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
+        "color": "#c950f1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779550200,
+        "episode": 8,
+        "timeUntilAiring": 87102
+      },
+      "popularity": 31028,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/202102",
+      "description": "OMGkawaiiAngel, affectionately known as \"KAngel\", is the top streamer girl with 10 million subscribers, and not a day goes by without seeing her in action. Whether online, on TV, or at a live show, she is always surrounded by her cheering fans.\n<br><br>\nStriving to catch up with KAngel's popularity is a three-girl streaming unit called Karamazov.\n<br><br>\nAnd far removed from the world of these streamers is Kache, a girl who lives with her freeloader boyfriend while working at a theme cafe.\n<br><br>\nThe story of the \"Internet Angel\" who captivated the world, woven by a girl who shines like a star and girls who reach for that brilliance, and the story of \"you\" on the other side of the screen, begins here.\n<br><br>\n(Source: Official Site)\n<br><br>\n<i>Note: Prior to broadcasting, \"NEEDY GIRL OVERDOSE -OVERTURE-\" — a theatrical pre-screening of the first 3 episodes rearranged and edited together— debuted in Japan on March 6, 2026.</i>",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Yostar Pictures"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "dxiVApAjPDg"
+      }
+    },
+    {
+      "id": 202381,
+      "title": {
+        "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+        "english": "Killed again, Mr. Detective.",
+        "native": "また殺されてしまったのですね、探偵様"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg",
+        "color": null
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779987480,
+        "episode": 9,
+        "timeUntilAiring": 524382
+      },
+      "popularity": 14044,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/202381",
+      "description": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery…<br><br>\n(Source: Yen Press)",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "LIDENFILMS"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "McRzL3kzw3o"
+      }
+    },
+    {
+      "id": 202386,
+      "title": {
+        "romaji": "Shou 3 Ashibe QQ Goma-chan",
+        "english": null,
+        "native": "小3アシベ QQゴマちゃん"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202386-wjFf8ubM1XZR.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png",
+        "color": "#f1bb1a"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779573600,
+        "episode": 7,
+        "timeUntilAiring": 110502
+      },
+      "popularity": 94,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/202386",
+      "description": null,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "DLE"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "cZftmR93acE"
+      }
+    },
+    {
+      "id": 202508,
+      "title": {
+        "romaji": "Kami no Shizuku",
+        "english": "The Drops of God",
+        "native": "神の雫"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
+        "color": "#e44386"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780065000,
+        "episode": 8,
+        "timeUntilAiring": 601902
+      },
+      "popularity": 4107,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/202508",
+      "description": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br>\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br>\nWhat is wine? What is a parent and a child? What is life?<br>\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br>\n(Source: Pony Canyon)",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Satelight"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Oz5EkYVJbBc"
+      }
+    },
+    {
+      "id": 202523,
+      "title": {
+        "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+        "english": "Marika's Love Meter Malfunction",
+        "native": "茉莉花ちゃんの好感度はぶっ壊れている"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
+        "color": "#e44378"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1780243200,
+        "episode": 7,
+        "timeUntilAiring": 780102
+      },
+      "popularity": 11091,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/202523",
+      "description": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n<br><br>\n(Source: Coolmic)\n<br><br>\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i>",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "Romance",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "studio LEO"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Ohd23eSaOaw"
+      }
+    },
+    {
+      "id": 202985,
+      "title": {
+        "romaji": "Tadaima, Ojamasaremasu!",
+        "english": "Pardon the Intrusion, I'm Home!",
+        "native": "ただいま、おじゃまされます！"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-lyp5TYpTnqSg.jpg",
+        "color": "#e4935d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779812940,
+        "episode": 8,
+        "timeUntilAiring": 349842
+      },
+      "popularity": 8086,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/202985",
+      "description": "So is this what it means to have roommates now?! Office worker Rinko, 24, lives alone and is secretly an otaku. One day, her apartment gets connected to the two neighboring rooms through a \"hole\" in the wall. In the room on the left is a fresh-faced yet mysterious guy who is overly-sweet to Rinko. The room on the right is occupied by a guy with violent tendences who is similarly mysterious... But wait! \"I... I think I know him!\" Rinko's only source of solitude, her apartment, has been turned upside down. Now, every day is full of heart-pounding surprises! \n<br><br>\n(Source: Manga Plaza)",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Tatsunoko Production"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "UE1NvURy0-E"
+      }
+    },
+    {
+      "id": 204269,
+      "title": {
+        "romaji": "Odekake Kozame Season 2",
+        "english": null,
+        "native": "おでかけ子ザメ シーズン2"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204269-fTR4iyVjTHiC.png",
+        "color": "#50bbfe"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779573600,
+        "episode": 7,
+        "timeUntilAiring": 110502
+      },
+      "popularity": 473,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/204269",
+      "description": "Second season of <i>Odekake Kozame</i>.",
+      "genres": [
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "ENGI"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Laf46YXDt68"
+      }
+    },
+    {
+      "id": 204319,
+      "title": {
+        "romaji": "Ookii Onnanoko wa Suki desu ka?",
+        "english": "Do You Like Big Girls?",
+        "native": "大きい女の子は好きですか？"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204319-qhw2yBXBUgJT.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204319-qhw2yBXBUgJT.png",
+        "color": "#e4bb35"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779638700,
+        "episode": 8,
+        "timeUntilAiring": 175602
+      },
+      "popularity": 8883,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/204319",
+      "description": "Souta was suddenly made dorm manager and coach of the Hokuei University Women's Volleyball Club as prompted by his older sister, Kaori. There, he had a fateful reunion with Ayano, his first love... In the girls' dorm! In the gym! In a hotel?! What awaited him were days of being bossed around by girls bigger than him! A Happy Harem Rom-Com of Size Differences♡ Born Huge on the Northern Plains!!\n<br><br>\n(Source: OceanVeil)\n<br><br>\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2025. The start date reflects the start of the regular series broadcasting.</i>",
+      "genres": [
+        "Ecchi",
+        "Romance",
+        "Sports"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Houkiboshi"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "lykS0V2dnWY"
+      }
+    },
+    {
+      "id": 205772,
+      "title": {
+        "romaji": "Candy Caries",
+        "english": null,
+        "native": "キャンディーカリエス"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205772-kb2YOaXFfPAB.png",
+        "color": "#f1930d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779893760,
+        "episode": 7,
+        "timeUntilAiring": 430662
+      },
+      "popularity": 552,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/205772",
+      "description": "Ame is a child who loves sweets, and the tooth decay that lives in her mouth called Caries. Caries lives a carefree life inside Ame's mouth and even calls her \"Mama\", and Ame's body is always at Caries' mercy.\n<br><br>\n(Source: Anime News Network, edited)",
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "WIT STUDIO"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "wM3E9LXHmu0"
+      }
+    },
+    {
+      "id": 206166,
+      "title": {
+        "romaji": "Ingoku Danchi",
+        "english": "Ingoku Danchi:Deviant's Apartment Complex",
+        "native": "インゴクダンチ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206166-xTJ9h6RmMCKR.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg",
+        "color": "#281a6b"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779639000,
+        "episode": 8,
+        "timeUntilAiring": 175902
+      },
+      "popularity": 7537,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/206166",
+      "description": "It's a place where greedy wives live... A married woman's erotic suspense!\n<br><br>\nThis is the extreme suspense of a married woman by the author of <i>Libido Hunter Takeru</i>! In this story, a group of perverted married women wearing the mysterious \"libido cross\" costume that amplifies human desires come under attack! Protect the apartment complex from the threat of perverted wives, new janitor Yoshida!",
+      "genres": [
+        "Ecchi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Elias"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "MkI3yiYeE2c"
+      }
+    },
+    {
+      "id": 206523,
+      "title": {
+        "romaji": "Onegai AiPri",
+        "english": null,
+        "native": "おねがいアイプリ"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg",
+        "color": "#0035ff"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779582600,
+        "episode": 8,
+        "timeUntilAiring": 119502
+      },
+      "popularity": 604,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/206523",
+      "description": "The latest entry in the <i>Pretty Series</i> franchise and a new chapter in the <i>AiPri</i> series.\n<br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i> ",
+      "genres": [
+        "Music"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "OLM"
+          },
+          {
+            "name": "Dongwoo Animation"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "j5MgjyhhUBc"
+      }
+    },
+    {
+      "id": 206914,
+      "title": {
+        "romaji": "Nippon Sangoku",
+        "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+        "native": "日本三國"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
+        "color": "#35c9e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779624000,
+        "episode": 8,
+        "timeUntilAiring": 160902
+      },
+      "popularity": 35546,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/206914",
+      "description": "A revolution sparked by nuclear war, natural disaster, and misrule leads to the collapse of Japanese society. The country splits into three nations vying for hegemony, and the Sangoku era begins. Aoteru Misumi, a former agricultural officer, vows to reunify Japan. He rises through the ranks with only his knowledge and eloquence. Witness the legend of the man later hailed as a genius strategist.\n<br><br>\n(Source: Amazon Prime Video)",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio Kafka"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "PvjwzkcaT2Y"
+      }
+    },
+    {
+      "id": 206950,
+      "title": {
+        "romaji": "Kumarba Season 3",
+        "english": null,
+        "native": "クマーバシーズン3"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
+        "color": "#e4c95d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779573600,
+        "episode": 7,
+        "timeUntilAiring": 110502
+      },
+      "popularity": 83,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/206950",
+      "description": "Third season of <i>Kumarba</i>.",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Akatsuki Media Studio"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "ZMbzOD0r_Us"
+      }
+    },
+    {
+      "id": 206951,
+      "title": {
+        "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+        "english": "My Ribdiculous Reincarnation",
+        "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
+        "color": "#5dc9f1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779814740,
+        "episode": 8,
+        "timeUntilAiring": 351642
+      },
+      "popularity": 13842,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/206951",
+      "description": "My reincarnation destination is... “the rib of a harem-loving, happy-ending, overpowered hero”!? An isekai reincarnation anime that defies animation conventions is born!<br><br>\n\nBeyond traditional animation, this series delivers an exhilarating isekai reincarnation tale through unconventional techniques like stop-motion, puppet theater, and live-action—featuring the aloof “Goddess” in charge of isekai reincarnations and the protagonist “Me,” who endures one absurd reincarnation after another!<br><br>\n\n(Source: YouTube Channel, translated)",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Qzil.la"
+          },
+          {
+            "name": "S.o.K"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "suKjfBsH3UM"
+      }
+    },
+    {
+      "id": 207675,
+      "title": {
+        "romaji": "Hyakki Yakou Shou",
+        "english": "Hyakki Yakoushou",
+        "native": "百鬼夜行抄"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207675-h3TZK82jG5aD.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
+        "color": "#e4a15d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779800100,
+        "episode": 8,
+        "timeUntilAiring": 337002
+      },
+      "popularity": 1059,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/207675",
+      "description": "Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.\n<br><br>\n(Source: MU)",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Supernatural"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Imagica Infos"
+          },
+          {
+            "name": "Imageworks Studio"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "gUKK4uohtgE"
+      }
+    },
+    {
+      "id": 209541,
+      "title": {
+        "romaji": "PetitCure: Precure Fairies Season 3",
+        "english": null,
+        "native": "ぷちきゅあ～Precure Fairies～ シーズン3"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg",
+        "color": "#d6e4a1"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779960600,
+        "episode": 10,
+        "timeUntilAiring": 497502
+      },
+      "popularity": 190,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/209541",
+      "description": "In Season 3, in addition to the familiar Mysterious Amusement Park and Candy Paradise, many new locations—including a lively performance stage—will make their debut!<br><br>\nFurthermore, joining the ranks of our active heroes like PetitCure Mofurun and PetitCure Pollun, new friends such as PetitCure Purirun and PetitCure Meroron will also be appearing!<br><br>\nEverything is even cuter when you're with a friend! ♪<br><br>\nPlease look forward to more heartwarming and humorous stories that will leave you feeling cozy and healed by all the cute PetitCure. ♡<br><br>\n\n(Source: Official Website)",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "IKIF+"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "4anmA68beog"
+      }
+    },
+    {
+      "id": 209940,
+      "title": {
+        "romaji": "Komekami! Girls",
+        "english": null,
+        "native": "こめかみっ！Girls"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209940-AmmMcfBXmB3c.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209940-AmmMcfBXmB3c.jpg",
+        "color": "#a15028"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779987000,
+        "episode": 9,
+        "timeUntilAiring": 523902
+      },
+      "popularity": 831,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV",
+      "siteUrl": "https://anilist.co/anime/209940",
+      "description": "This is the story of the seven-sister unit \"Komekami! Girls,\" children of the rice deity, born from the tradition: \"In a single grain of rice, seven gods reside.\"<br><br>\n\nWhen their mother (the deity of rice, or the rice-god queen) was called back in haste to the celestial realm and no longer able to return to the earthly realm they search for her traces using Usa City (Oita Prefecture) as their base, and teleport to Hachiman shrines throughout Kyushu island. As they solve local problems, they learn about food, take part in cooking battles, and grow.",
+      "genres": [
+        "Comedy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Daily Plan.net"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "Xqc-0SgApHw"
+      }
+    },
+    {
+      "id": 210234,
+      "title": {
+        "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
+        "english": "Monster Eater",
+        "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210234-MZaMjdbBzEHz.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
+        "color": "#e4505d"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779984000,
+        "episode": 9,
+        "timeUntilAiring": 520902
+      },
+      "popularity": 6248,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/210234",
+      "description": "Rude, an E-rank adventurer. His only skill, \"Status Ailment Nullification,\" is a niche ability considered useful only for gathering medicinal herbs in miasma-choked dungeons. With virtually zero combat prowess, his fellow adventurers mock him with the nickname \"Miasma Scavenger.\" In a desperate bid to change his life, Rude ventures into a new dungeon—only to be betrayed by his party and left for dead. With his supplies gone and his life fading, he makes a forbidden choice: to consume the flesh of a monster. So begins the tale of Rude’s \"Monster Devouring\" adventure, where he gains new skills by simply consuming his foes!\n<br><br>\n(Source: Ani-One Asia)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Imagica Infos"
+          },
+          {
+            "name": "Imageworks Studio"
+          }
+        ]
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "tXZbVN3xc7U"
+      }
+    },
+    {
+      "id": 210375,
+      "title": {
+        "romaji": "Daikenja Riddle no Jikan Gyakko",
+        "english": null,
+        "native": "大賢者リドルの時間逆行"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210375-Nfj4cciZ35un.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210375-Nfj4cciZ35un.jpg",
+        "color": "#4378e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779886500,
+        "episode": 9,
+        "timeUntilAiring": 423402
+      },
+      "popularity": 3177,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "TV_SHORT",
+      "siteUrl": "https://anilist.co/anime/210375",
+      "description": "The story follows Riddle, a young man who lost his companions to a mysterious group known as the \"Box of Malice.\" On the brink of despair, after 1,000 years, Riddle eventually achieves the ability to reverse time. With a thousand years of knowledge and experience, the Great Sage Riddle journeys to the past.<br><br>\n(Source: Anime News Network)",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Imagica Infos"
+          },
+          {
+            "name": "Imageworks Studio"
+          }
+        ]
+      },
+      "trailer": null
+    },
+    {
+      "id": 210687,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+        "english": null,
+        "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210687-H54G1bTwCBpV.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210687-H54G1bTwCBpV.jpg",
+        "color": "#a1e4c9"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1779888600,
+        "episode": 8,
+        "timeUntilAiring": 425502
+      },
+      "popularity": 1565,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/210687",
+      "description": "The fourth season of Re:Zero kara Hajimeru Kyuukei Jikan (Break Time).",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "studios": {
+        "nodes": [
+          {
+            "name": "Studio PuYUKAI"
+          }
+        ]
+      },
+      "trailer": null
+    },
+    {
+      "id": 212309,
+      "title": {
+        "romaji": "Transformers: Wild King W",
+        "english": null,
+        "native": "トランスフォーマー ワイルドキングW"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212309-gDqt6qz1RPEL.png",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png",
+        "color": "#3593e4"
+      },
+      "nextAiringEpisode": {
+        "airingAt": 1782262800,
+        "episode": 3,
+        "timeUntilAiring": 2799702
+      },
+      "popularity": 32,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/212309",
+      "description": "A sequel to <i>Transformers: Wild King</i>.",
+      "genres": [
+        "Action",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "studios": {
+        "nodes": []
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "6gyPgg1YdYg"
+      }
+    },
+    {
+      "id": 212319,
+      "title": {
+        "romaji": "Nikke Nichi! Non Non Zenshou Kichi",
+        "english": "NIKKE Outpost: Off-Duty Tales",
+        "native": "にけにち！のんのん前哨基地"
+      },
+      "coverImage": {
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212319-y1qSwLdqI2Cv.jpg",
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212319-y1qSwLdqI2Cv.jpg",
+        "color": "#e4ae50"
+      },
+      "nextAiringEpisode": null,
+      "popularity": 284,
+      "status": "RELEASING",
+      "season": "SPRING",
+      "seasonYear": 2026,
+      "format": "ONA",
+      "siteUrl": "https://anilist.co/anime/212319",
+      "description": "Commander, there's no need to sortie today.<br>\nNo emergency missions. No roaring gunfire.<br>\nAt this moment in the Outpost, all that remains are the Nikkes' everyday moments, laughter, and little unexpected happenings.<br><br>(Source: NIKKE's English Twitter account)",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "studios": {
+        "nodes": []
+      },
+      "trailer": {
+        "site": "youtube",
+        "id": "ioKTlm7wFsE"
+      }
+    }
+  ]
+}

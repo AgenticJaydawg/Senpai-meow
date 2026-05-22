@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-accent: var(--accent);
+  --color-border: var(--border);
+}
+
+/* Light Mode (Default) */
+:root {
+  --background: #FFFDFB;
+  --surface: #FFFFFF;
+  --surface-hover: #F8F4F2;
+  --foreground: #1A1A1A;
+  --muted: #6B6B6B;
+  --primary: #FF8BA7;
+  --primary-hover: #FF6B8D;
+  --accent: #FFECEF;
+  --border: #E8E0DB;
+}
+
+/* Dark Mode */
+.dark {
+  --background: #0D0D0F;
+  --surface: #161618;
+  --surface-hover: #1E1E22;
+  --foreground: #E8E8E8;
+  --muted: #9CA3AF;
+  --primary: #FF6B8D;
+  --primary-hover: #FF4A73;
+  --accent: #2A1A1D;
+  --border: #2A2A2D;
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--background)] text-[var(--foreground)] antialiased;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    overflow-x: hidden;
+  }
+
+  /* Custom scrollbar (cozy + dark compatible) */
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 999px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+}
+
+/* Custom floating and bobbing animations */
+@keyframes float {
+  0% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(2deg); }
+  100% { transform: translateY(0px) rotate(0deg); }
+}
+
+@keyframes float-reverse {
+  0% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-6px) rotate(-2deg); }
+  100% { transform: translateY(0px) rotate(0deg); }
+}
+
+@keyframes purr {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@keyframes modal-enter {
+  from { transform: scale(0.95); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.animate-float-slow {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-slower {
+  animation: float-reverse 8s ease-in-out infinite;
+}
+
+.animate-purr {
+  animation: purr 2s ease-in-out infinite;
+}
+
+.animate-modal-enter {
+  animation: modal-enter 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.cat-paw-opacity {
+  opacity: 0.04;
+}
+
+.card-transition {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
