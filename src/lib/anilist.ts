@@ -33,6 +33,12 @@ export interface AnimeMedia {
     site: string;
     id: string;
   } | null;
+  externalLinks?: {
+    id: number;
+    url: string;
+    site: string;
+    type: string;
+  }[];
 }
 
 interface CacheData {
@@ -166,6 +172,12 @@ const ANILIST_QUERY = `
             site
             id
           }
+          externalLinks {
+            id
+            url
+            site
+            type
+          }
         }
       }
     }
@@ -232,6 +244,7 @@ async function fetchFromAniList(start: number, end: number): Promise<AnimeMedia[
             genres: media.genres,
             studios: media.studios,
             trailer: media.trailer,
+            externalLinks: media.externalLinks,
           };
         });
       mediaList = [...mediaList, ...mapped];

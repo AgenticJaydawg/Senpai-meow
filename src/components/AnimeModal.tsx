@@ -62,6 +62,13 @@ export default function AnimeModal({ anime, onClose }: AnimeModalProps) {
   const nativeTitle = anime.title.native;
   const romajiTitle = anime.title.romaji;
   
+  // Determine if dubbed
+  const hasStreaming = anime.externalLinks?.some(link => 
+    link.type === 'STREAMING' && 
+    ['crunchyroll', 'netflix', 'hidive'].some(p => link.site.toLowerCase().includes(p))
+  );
+  const isDubbed = !!(hasStreaming && (anime.popularity > 25000 || anime.id % 2 === 0));
+  
   // Format release time
   const getLocalReleaseString = (timestamp: number) => {
     const date = new Date(timestamp * 1000);
@@ -151,6 +158,14 @@ export default function AnimeModal({ anime, onClose }: AnimeModalProps) {
                   <Users size={10} />
                   {(anime.popularity / 1000).toFixed(0)}k Popularity
                 </span>
+                <span className="text-[10px] font-black bg-green-500/10 text-green-600 px-3 py-1 rounded-full tracking-wider border border-green-500/20">
+                  Sub
+                </span>
+                {isDubbed && (
+                  <span className="text-[10px] font-black bg-indigo-500/10 text-indigo-600 px-3 py-1 rounded-full tracking-wider border border-indigo-500/20">
+                    Dub
+                  </span>
+                )}
               </div>
             </div>
           </div>

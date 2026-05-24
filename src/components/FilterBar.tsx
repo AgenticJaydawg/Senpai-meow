@@ -8,6 +8,13 @@ interface FilterBarProps {
   setActiveFilter: (filter: 'all' | 'today' | 'tomorrow' | 'week') => void;
   sortBy: 'soon' | 'alpha' | 'popular';
   setSortBy: (sort: 'soon' | 'alpha' | 'popular') => void;
+  selectedPlatform: string;
+  setSelectedPlatform: (platform: string) => void;
+  selectedGenre: string;
+  setSelectedGenre: (genre: string) => void;
+  availableGenres: string[];
+  selectedAudio: string;
+  setSelectedAudio: (audio: string) => void;
 }
 
 export default function FilterBar({
@@ -17,6 +24,13 @@ export default function FilterBar({
   setActiveFilter,
   sortBy,
   setSortBy,
+  selectedPlatform,
+  setSelectedPlatform,
+  selectedGenre,
+  setSelectedGenre,
+  availableGenres,
+  selectedAudio,
+  setSelectedAudio,
 }: FilterBarProps) {
   const filters: { value: typeof activeFilter; label: string }[] = [
     { value: 'all', label: 'All Schedule' },
@@ -50,9 +64,9 @@ export default function FilterBar({
         </div>
 
         {/* Search & Sort Panel */}
-        <div className="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center flex-grow lg:flex-grow-0 max-w-2xl">
+        <div className="flex flex-col sm:flex-row flex-wrap gap-3 items-stretch sm:items-center flex-grow lg:flex-grow-0 max-w-4xl">
           {/* Search Input */}
-          <div className="relative flex-grow">
+          <div className="relative flex-grow sm:flex-grow-0 min-w-[200px]">
             <input
               type="text"
               value={searchQuery}
@@ -72,6 +86,61 @@ export default function FilterBar({
                 <X size={14} />
               </button>
             )}
+          </div>
+
+          {/* Genre Dropdown */}
+          <div className="relative flex-shrink-0">
+            <select
+              value={selectedGenre}
+              onChange={(e) => setSelectedGenre(e.target.value)}
+              className="appearance-none bg-background border border-border rounded-2xl pl-4 pr-10 py-2.5 text-xs font-black text-foreground focus:outline-hidden focus:border-primary/40 cursor-pointer shadow-xs"
+            >
+              <option value="all">All Genres</option>
+              {availableGenres.map((genre) => (
+                <option key={genre} value={genre}>
+                  {genre}
+                </option>
+              ))}
+            </select>
+            <ChevronDown 
+              size={14} 
+              className="absolute right-3.5 top-1/2 transform -translate-y-1/2 text-muted/50 pointer-events-none" 
+            />
+          </div>
+
+          {/* Platform Dropdown */}
+          <div className="relative flex-shrink-0">
+            <select
+              value={selectedPlatform}
+              onChange={(e) => setSelectedPlatform(e.target.value)}
+              className="appearance-none bg-background border border-border rounded-2xl pl-4 pr-10 py-2.5 text-xs font-black text-foreground focus:outline-hidden focus:border-primary/40 cursor-pointer shadow-xs"
+            >
+              <option value="all">All Streaming Sites</option>
+              <option value="crunchyroll">Crunchyroll</option>
+              <option value="netflix">Netflix</option>
+              <option value="hidive">HIDIVE</option>
+            </select>
+            <ChevronDown 
+              size={14} 
+              className="absolute right-3.5 top-1/2 transform -translate-y-1/2 text-muted/50 pointer-events-none" 
+            />
+          </div>
+
+          {/* Sub/Dub Dropdown */}
+          <div className="relative flex-shrink-0">
+            <select
+              value={selectedAudio}
+              onChange={(e) => setSelectedAudio(e.target.value)}
+              className="appearance-none bg-background border border-border rounded-2xl pl-4 pr-10 py-2.5 text-xs font-black text-foreground focus:outline-hidden focus:border-primary/40 cursor-pointer shadow-xs"
+            >
+              <option value="all">Sub & Dub</option>
+              <option value="sub">Subbed Only</option>
+              <option value="dub">Dubbed Only</option>
+            </select>
+            <ChevronDown 
+              size={14} 
+              className="absolute right-3.5 top-1/2 transform -translate-y-1/2 text-muted/50 pointer-events-none" 
+            />
           </div>
 
           {/* Sort Dropdown */}

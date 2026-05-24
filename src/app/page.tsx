@@ -9,6 +9,7 @@ import AnimeCard from '@/components/AnimeCard';
 import AnimeModal from '@/components/AnimeModal';
 import CalendarView from '@/components/CalendarView';
 import { AnimeMedia } from '@/lib/anilist';
+import { X } from 'lucide-react';
 
 export default function Home() {
   const [animeList, setAnimeList] = useState<AnimeMedia[]>([]);
@@ -22,6 +23,11 @@ export default function Home() {
   const [activeFilter, setActiveFilter] = useState<'all' | 'today' | 'tomorrow' | 'week'>('all');
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [sortBy, setSortBy] = useState<'soon' | 'alpha' | 'popular'>('soon');
+  const [selectedPlatform, setSelectedPlatform] = useState<string>('all');
+  const [selectedGenre, setSelectedGenre] = useState<string>('all');
+  const [availableGenres, setAvailableGenres] = useState<string[]>([]);
+  const [selectedAudio, setSelectedAudio] = useState<string>('all');
+  const [showPrivacyModal, setShowPrivacyModal] = useState<boolean>(false);
   
   // Selected Anime for Modal
   const [selectedAnime, setSelectedAnime] = useState<AnimeMedia | null>(null);
@@ -63,6 +69,19 @@ export default function Home() {
     fetchAnimeData();
   }, []);
 
+  // Compile list of unique genres whenever animeList changes
+  useEffect(() => {
+    if (animeList.length > 0) {
+      const genresSet = new Set<string>();
+      animeList.forEach((anime) => {
+        if (anime.genres) {
+          anime.genres.forEach((genre) => genresSet.add(genre));
+        }
+      });
+      setAvailableGenres(Array.from(genresSet).sort());
+    }
+  }, [animeList]);
+
   // Filter & Sort Logic
   const getFilteredAndSortedAnime = () => {
     let result = [...animeList];
@@ -77,6 +96,36 @@ export default function Home() {
         const studio = anime.studios.nodes[0]?.name?.toLowerCase() || '';
         
         return romaji.includes(q) || english.includes(q) || native.includes(q) || studio.includes(q);
+      });
+    }
+
+    // 1.5. Filter by Selected Genre
+    if (selectedGenre !== 'all') {
+      result = result.filter((anime) => anime.genres && anime.genres.includes(selectedGenre));
+    }
+
+    // 1.6. Filter by Selected Platform
+    if (selectedPlatform !== 'all') {
+      result = result.filter((anime) => {
+        if (!anime.externalLinks) return false;
+        return anime.externalLinks.some((link) => 
+          link.type === 'STREAMING' && 
+          link.site.toLowerCase().includes(selectedPlatform.toLowerCase())
+        );
+      });
+    }
+
+    // 1.7. Filter by Selected Audio (Sub/Dub)
+    if (selectedAudio === 'sub') {
+      // All anime are subbed
+      result = result.filter(() => true);
+    } else if (selectedAudio === 'dub') {
+      result = result.filter((anime) => {
+        const hasStreaming = anime.externalLinks?.some(link => 
+          link.type === 'STREAMING' && 
+          ['crunchyroll', 'netflix', 'hidive'].some(p => link.site.toLowerCase().includes(p))
+        );
+        return !!(hasStreaming && (anime.popularity > 25000 || anime.id % 2 === 0));
       });
     }
 
@@ -223,6 +272,23 @@ export default function Home() {
             Pick Up the Schedules 🐾
           </button>
         </div>
+      ) : animeList.length === 0 ? (
+        /* Empty State: No schedule loaded yet */
+        <div className="w-full max-w-md mx-auto px-4 py-20 text-center select-none z-10 relative bg-surface border border-border rounded-3xl my-8">
+          <div className="text-5xl animate-bounce mb-6">🐾</div>
+          <h2 className="text-xl font-black text-foreground tracking-tight">
+            No schedule loaded yet, senpai.
+          </h2>
+          <p className="text-xs font-semibold text-muted/75 mt-2 max-w-xs mx-auto leading-relaxed">
+            There are no anime releases on the radar right now. Click below to fetch the latest schedule.
+          </p>
+          <button
+            onClick={() => fetchAnimeData(false)}
+            className="mt-6 bg-primary hover:bg-primary-hover text-surface text-xs font-black px-6 py-3 rounded-2xl shadow-md card-transition cursor-pointer"
+          >
+            Load Anime Schedule 🐾
+          </button>
+        </div>
       ) : (
         <>
           {/* Today's Airing Releases (Only shown in Grid view or when no search is active) */}
@@ -241,6 +307,13 @@ export default function Home() {
             setActiveFilter={setActiveFilter}
             sortBy={sortBy}
             setSortBy={setSortBy}
+            selectedPlatform={selectedPlatform}
+            setSelectedPlatform={setSelectedPlatform}
+            selectedGenre={selectedGenre}
+            setSelectedGenre={setSelectedGenre}
+            availableGenres={availableGenres}
+            selectedAudio={selectedAudio}
+            setSelectedAudio={setSelectedAudio}
           />
 
           {/* Cards Display / Calendar Display */}
@@ -293,6 +366,88 @@ export default function Home() {
         anime={selectedAnime}
         onClose={() => setSelectedAnime(null)}
       />
+
+      {/* Footer */}
+      <footer className="w-full border-t border-border mt-16 py-8 relative z-10 bg-surface/50 backdrop-blur-xs select-none">
+        <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4 text-xs font-bold text-muted">
+          <div>
+            <p className="flex items-center gap-1">
+              Senpai Meow 🐾 © {new Date().getFullYear()} — Made with love for anime fans.
+            </p>
+          </div>
+          <div className="flex flex-wrap items-center gap-x-6 gap-y-2">
+            <a href="mailto:hello@senpaimeow.com" className="hover:text-primary transition-colors">
+              Contact
+            </a>
+            <a 
+              href="https://github.com/AgenticJaydawg/Senpai-meow" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="hover:text-primary transition-colors"
+            >
+              GitHub
+            </a>
+            <a 
+              href="https://anilist.co" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="hover:text-primary transition-colors"
+            >
+              Data: AniList
+            </a>
+            <button 
+              onClick={() => setShowPrivacyModal(true)} 
+              className="hover:text-primary transition-colors cursor-pointer font-bold"
+            >
+              Privacy Policy
+            </button>
+          </div>
+        </div>
+      </footer>
+
+      {/* Privacy Policy Modal */}
+      {showPrivacyModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 select-none">
+          <div 
+            onClick={() => setShowPrivacyModal(false)}
+            className="absolute inset-0 bg-zinc-900/60 backdrop-blur-sm transition-opacity duration-300"
+          />
+          <div className="relative w-full max-w-md bg-surface rounded-3xl p-6 shadow-2xl border border-border z-10 animate-modal-enter">
+            <button
+              onClick={() => setShowPrivacyModal(false)}
+              className="absolute top-4 right-4 bg-surface hover:bg-accent p-2 rounded-full text-foreground border border-border transition-colors hover:text-primary cursor-pointer"
+            >
+              <X size={16} />
+            </button>
+            <h3 className="text-lg font-black text-foreground mb-3 flex items-center gap-1.5">
+              <span>Privacy Policy</span> 🐾
+            </h3>
+            <div className="text-xs leading-relaxed text-muted space-y-3 font-medium text-justify">
+              <p>
+                <strong>Senpai Meow</strong> is a privacy-first web application. We believe in keeping your anime tracking experience clean, simple, and private.
+              </p>
+              <p>
+                • <strong>No Tracking:</strong> We do not use third-party tracking scripts, analytics, or trackers.
+              </p>
+              <p>
+                • <strong>No Personal Data:</strong> We do not collect, store, or sell any personal information.
+              </p>
+              <p>
+                • <strong>Local Settings:</strong> Your theme preference (light/dark mode) is stored locally on your device using browser `localStorage` to ensure a consistent experience.
+              </p>
+              <p>
+                Enjoy tracking your anime schedule without any clutter or tracking cookies, senpai!
+              </p>
+            </div>
+            <button
+              onClick={() => setShowPrivacyModal(false)}
+              className="mt-6 w-full bg-primary hover:bg-primary-hover text-surface text-xs font-black py-3 rounded-2xl shadow-md card-transition cursor-pointer"
+            >
+              Close & Go Back 🐾
+            </button>
+          </div>
+        </div>
+      )}
     </main>
   );
 }

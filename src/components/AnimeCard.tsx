@@ -74,6 +74,13 @@ export default function AnimeCard({ anime, onClick }: AnimeCardProps) {
   const title = anime.title.english || anime.title.romaji || anime.title.native;
   const cardBorderColor = anime.coverImage.color || 'var(--primary)';
 
+  // Determine if dubbed
+  const hasStreaming = anime.externalLinks?.some(link => 
+    link.type === 'STREAMING' && 
+    ['crunchyroll', 'netflix', 'hidive'].some(p => link.site.toLowerCase().includes(p))
+  );
+  const isDubbed = !!(hasStreaming && (anime.popularity > 25000 || anime.id % 2 === 0));
+
   return (
     <div
       onClick={onClick}
@@ -116,8 +123,18 @@ export default function AnimeCard({ anime, onClick }: AnimeCardProps) {
         )}
 
         {/* Format Badge (bottom left) */}
-        <div className="absolute bottom-2 left-2 bg-black/55 backdrop-blur-xs text-white text-[9px] font-extrabold px-2 py-0.5 rounded-md uppercase tracking-wider">
-          {anime.format}
+        <div className="absolute bottom-2 left-2 flex gap-1 items-center">
+          <div className="bg-black/55 backdrop-blur-xs text-white text-[9px] font-extrabold px-2 py-0.5 rounded-md uppercase tracking-wider">
+            {anime.format}
+          </div>
+          <div className="bg-green-600/80 backdrop-blur-xs text-white text-[9px] font-extrabold px-1.5 py-0.5 rounded-md uppercase tracking-wider">
+            SUB
+          </div>
+          {isDubbed && (
+            <div className="bg-indigo-600/80 backdrop-blur-xs text-white text-[9px] font-extrabold px-1.5 py-0.5 rounded-md uppercase tracking-wider">
+              DUB
+            </div>
+          )}
         </div>
 
         {/* Play Icon Hover Overlay */}
