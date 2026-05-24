@@ -33,27 +33,27 @@ Welcome to **Senpai Meow 🐾**, a clean, ad-free, cozy anime schedule website. 
 
 ## 🚀 Getting Started
 
-Since script execution may be restricted on some Windows machines, use the following bypass command to run commands:
+First, install the dependencies:
 
-### 1. Install Dependencies
-```powershell
-$env:Path += ';C:\Program Files\nodejs'; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; npm install
+```bash
+npm install
 ```
 
-### 2. Run the Development Server
-```powershell
-$env:Path += ';C:\Program Files\nodejs'; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; npm run dev
+Then, run the development server:
+
+```bash
+npm run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### 3. Build for Production
-```powershell
-$env:Path += ';C:\Program Files\nodejs'; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; npm run build
-```
+### Production Build
 
-### 4. Start Production Server
-```powershell
-$env:Path += ';C:\Program Files\nodejs'; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; npm start
+To build the application for production:
+
+```bash
+npm run build
+npm start
 ```
 
 ---
