@@ -131,61 +131,54 @@ function getCurrentSeasonAndYear() {
 }
 
 const ANILIST_QUERY = `
-  query ($page: Int, $perPage: Int) {
+  query ($start: Int, $end: Int, $page: Int, $perPage: Int) {
     Page(page: $page, perPage: $perPage) {
       pageInfo {
         hasNextPage
       }
-      media(
-        status: RELEASING,
-        type: ANIME,
-        isAdult: false
-      ) {
+      airingSchedules(airingAt_greater: $start, airingAt_lesser: $end) {
         id
-        title {
-          romaji
-          english
-          native
-        }
-        coverImage {
-          large
-          extraLarge
-          color
-        }
-        nextAiringEpisode {
-          airingAt
-          episode
-          timeUntilAiring
-        }
-        popularity
-        status
-        season
-        seasonYear
-        format
-        siteUrl
-        description
-        genres
-        studios(isMain: true) {
-          nodes {
-            name
-          }
-        }
-        trailer {
-          site
+        airingAt
+        episode
+        media {
           id
+          title {
+            romaji
+            english
+            native
+          }
+          coverImage {
+            large
+            extraLarge
+            color
+          }
+          popularity
+          status
+          format
+          description
+          genres
+          studios(isMain: true) {
+            nodes {
+              name
+            }
+          }
+          trailer {
+            site
+            id
+          }
         }
       }
     }
   }
 `;
 
-async function fetchFromAniList(): Promise<AnimeMedia[]> {
+async function fetchFromAniList(start: number, end: number): Promise<AnimeMedia[]> {
   let mediaList: AnimeMedia[] = [];
   let page = 1;
   let hasNextPage = true;
 
   // We loop to retrieve all airing shows (in pages of 50)
-  while (hasNextPage && page <= 5) { // Cap at 5 pages (250 shows) to prevent runaway loops
+  while (hasNextPage && page <= 6) { // Cap at 6 pages (300 shows) to prevent runaway loops
     const response = await fetch('https://graphql.anilist.co', {
       method: 'POST',
       headers: {
@@ -195,6 +188,8 @@ async function fetchFromAniList(): Promise<AnimeMedia[]> {
       body: JSON.stringify({
         query: ANILIST_QUERY,
         variables: {
+          start,
+          end,
           page,
           perPage: 50,
         },
@@ -211,13 +206,35 @@ async function fetchFromAniList(): Promise<AnimeMedia[]> {
     }
 
     const pageData = json.data?.Page;
-    if (pageData?.media) {
-      // Filter primarily for TV, TV_SHORT, ONA as requested
-      const filteredMedia = pageData.media.filter((item: AnimeMedia) => {
-        const fmt = item.format;
-        return fmt === 'TV' || fmt === 'TV_SHORT' || fmt === 'ONA';
-      });
-      mediaList = [...mediaList, ...filteredMedia];
+    if (pageData?.airingSchedules) {
+      const mapped = pageData.airingSchedules
+        .filter((item: any) => {
+          if (!item.media) return false;
+          const fmt = item.media.format;
+          return fmt === 'TV' || fmt === 'TV_SHORT' || fmt === 'ONA';
+        })
+        .map((item: any) => {
+          const media = item.media;
+          return {
+            id: media.id,
+            title: media.title,
+            coverImage: media.coverImage,
+            nextAiringEpisode: {
+              airingAt: item.airingAt,
+              episode: item.episode,
+              timeUntilAiring: item.airingAt - Math.floor(Date.now() / 1000),
+            },
+            popularity: media.popularity,
+            status: media.status,
+            format: media.format,
+            siteUrl: `https://anilist.co/anime/${media.id}`,
+            description: media.description,
+            genres: media.genres,
+            studios: media.studios,
+            trailer: media.trailer,
+          };
+        });
+      mediaList = [...mediaList, ...mapped];
     }
 
     hasNextPage = pageData?.pageInfo?.hasNextPage || false;
@@ -256,7 +273,10 @@ export async function getSeasonalAnime(): Promise<{ mediaList: AnimeMedia[]; las
 
   // 3. Cache is stale or non-existent, try to fetch from AniList
   try {
-    const freshMediaList = await fetchFromAniList();
+    const nowSec = Math.floor(now / 1000);
+    const start = nowSec - 3 * 24 * 60 * 60; // 3 days ago to keep recently aired episodes visible
+    const end = nowSec + 7 * 24 * 60 * 60;   // 7 days from now
+    const freshMediaList = await fetchFromAniList(start, end);
 
     if (freshMediaList.length > 0) {
       const lastRefreshed = new Date().toLocaleString('en-US', {

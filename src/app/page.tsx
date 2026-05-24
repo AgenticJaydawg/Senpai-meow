@@ -108,11 +108,38 @@ export default function Home() {
       });
     }
 
+    // De-duplicate for Grid view (activeFilter === 'all') so each show only appears once
+    if (activeFilter === 'all') {
+      const uniqueMap = new Map<number, AnimeMedia>();
+      for (const item of result) {
+        const existing = uniqueMap.get(item.id);
+        if (!existing) {
+          uniqueMap.set(item.id, item);
+        } else {
+          // Prefer the episode closest to current time
+          const diffExisting = Math.abs((existing.nextAiringEpisode?.airingAt || 0) * 1000 - now);
+          const diffItem = Math.abs((item.nextAiringEpisode?.airingAt || 0) * 1000 - now);
+          if (diffItem < diffExisting) {
+            uniqueMap.set(item.id, item);
+          }
+        }
+      }
+      result = Array.from(uniqueMap.values());
+    }
+
     // 3. Sorting Logic
     result.sort((a, b) => {
       if (sortBy === 'soon') {
         const timeA = a.nextAiringEpisode?.airingAt || Infinity;
         const timeB = b.nextAiringEpisode?.airingAt || Infinity;
+        const nowSec = Math.floor(now / 1000);
+        
+        // Push already aired shows to the bottom when sorting by soonest airing
+        const aHasAired = timeA < nowSec;
+        const bHasAired = timeB < nowSec;
+        if (aHasAired !== bHasAired) {
+          return aHasAired ? 1 : -1;
+        }
         return timeA - timeB;
       }
       if (sortBy === 'alpha') {
