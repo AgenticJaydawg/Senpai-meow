@@ -15,6 +15,7 @@ interface FilterBarProps {
   availableGenres: string[];
   selectedAudio: string;
   setSelectedAudio: (audio: string) => void;
+  currentView: 'grid' | 'calendar';
 }
 
 export default function FilterBar({
@@ -31,6 +32,7 @@ export default function FilterBar({
   availableGenres,
   selectedAudio,
   setSelectedAudio,
+  currentView,
 }: FilterBarProps) {
   const filters: { value: typeof activeFilter; label: string }[] = [
     { value: 'all', label: 'All Schedule' },
@@ -44,24 +46,26 @@ export default function FilterBar({
       <div className="bg-surface border border-border p-4 rounded-3xl shadow-xs flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
         
         {/* Day Filters */}
-        <div className="flex flex-wrap gap-2">
-          {filters.map((filter) => (
-            <button
-              key={filter.value}
-              onClick={() => setActiveFilter(filter.value)}
-              className={`px-4.5 py-2.5 rounded-2xl text-xs font-black tracking-tight card-transition border ${
-                activeFilter === filter.value
-                  ? 'bg-accent border-primary/30 text-primary shadow-xs'
-                  : 'bg-background border-border text-muted hover:border-primary/30 hover:text-primary'
-              }`}
-            >
-              {filter.value === 'today' && <span className="mr-1">🌸</span>}
-              {filter.value === 'tomorrow' && <span className="mr-1">☀️</span>}
-              {filter.value === 'week' && <span className="mr-1">📅</span>}
-              {filter.label}
-            </button>
-          ))}
-        </div>
+        {currentView !== 'calendar' && (
+          <div className="flex flex-wrap gap-2">
+            {filters.map((filter) => (
+              <button
+                key={filter.value}
+                onClick={() => setActiveFilter(filter.value)}
+                className={`px-4.5 py-2.5 rounded-2xl text-xs font-black tracking-tight card-transition border ${
+                  activeFilter === filter.value
+                    ? 'bg-accent border-primary/30 text-primary shadow-xs'
+                    : 'bg-background border-border text-muted hover:border-primary/30 hover:text-primary'
+                }`}
+              >
+                {filter.value === 'today' && <span className="mr-1">🌸</span>}
+                {filter.value === 'tomorrow' && <span className="mr-1">☀️</span>}
+                {filter.value === 'week' && <span className="mr-1">📅</span>}
+                {filter.label}
+              </button>
+            ))}
+          </div>
+        )}
 
         {/* Search & Sort Panel */}
         <div className="flex flex-col sm:flex-row flex-wrap gap-3 items-stretch sm:items-center flex-grow lg:flex-grow-0 max-w-4xl">

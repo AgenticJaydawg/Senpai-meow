@@ -207,6 +207,74 @@ export default function Home() {
 
   const processedAnime = getFilteredAndSortedAnime();
 
+  // Helper for calendar view to get all airing anime matching search/genre/platform/audio filters
+  // but bypassing day-specific interval filtering
+  const getCalendarAnime = () => {
+    let result = [...animeList];
+
+    // 1. Filter by Search Query
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase().trim();
+      result = result.filter((anime) => {
+        const romaji = anime.title.romaji?.toLowerCase() || '';
+        const english = anime.title.english?.toLowerCase() || '';
+        const native = anime.title.native?.toLowerCase() || '';
+        const studio = anime.studios.nodes[0]?.name?.toLowerCase() || '';
+        
+        return romaji.includes(q) || english.includes(q) || native.includes(q) || studio.includes(q);
+      });
+    }
+
+    // 2. Filter by Selected Genre
+    if (selectedGenre !== 'all') {
+      result = result.filter((anime) => anime.genres && anime.genres.includes(selectedGenre));
+    }
+
+    // 3. Filter by Selected Platform
+    if (selectedPlatform !== 'all') {
+      result = result.filter((anime) => {
+        if (!anime.externalLinks) return false;
+        return anime.externalLinks.some((link) => 
+          link.type === 'STREAMING' && 
+          link.site.toLowerCase().includes(selectedPlatform.toLowerCase())
+        );
+      });
+    }
+
+    // 4. Filter by Selected Audio (Sub/Dub)
+    if (selectedAudio === 'sub') {
+      // All anime are subbed
+      result = result.filter(() => true);
+    } else if (selectedAudio === 'dub') {
+      result = result.filter((anime) => {
+        const hasStreaming = anime.externalLinks?.some(link => 
+          link.type === 'STREAMING' && 
+          ['crunchyroll', 'netflix', 'hidive'].some(p => link.site.toLowerCase().includes(p))
+        );
+        return !!(hasStreaming && (anime.popularity > 25000 || anime.id % 2 === 0));
+      });
+    }
+
+    // De-duplicate shows to keep calendar tidy
+    const uniqueMap = new Map<number, AnimeMedia>();
+    const now = Date.now();
+    for (const item of result) {
+      const existing = uniqueMap.get(item.id);
+      if (!existing) {
+        uniqueMap.set(item.id, item);
+      } else {
+        const diffExisting = Math.abs((existing.nextAiringEpisode?.airingAt || 0) * 1000 - now);
+        const diffItem = Math.abs((item.nextAiringEpisode?.airingAt || 0) * 1000 - now);
+        if (diffItem < diffExisting) {
+          uniqueMap.set(item.id, item);
+        }
+      }
+    }
+    result = Array.from(uniqueMap.values());
+
+    return result;
+  };
+
   // Loading Skeleton Elements
   const SkeletonGrid = () => (
     <div className="w-full max-w-6xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 select-none">
@@ -314,6 +382,7 @@ export default function Home() {
             availableGenres={availableGenres}
             selectedAudio={selectedAudio}
             setSelectedAudio={setSelectedAudio}
+            currentView={activeView}
           />
 
           {/* Cards Display / Calendar Display */}
@@ -354,7 +423,7 @@ export default function Home() {
           ) : (
             /* Weekly Calendar View */
             <CalendarView
-              animeList={processedAnime}
+              animeList={getCalendarAnime()}
               onCardClick={(anime) => setSelectedAnime(anime)}
             />
           )}
