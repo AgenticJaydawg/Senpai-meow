@@ -23,6 +23,8 @@
   --primary-hover: #FF6B8D;
   --accent: #FFECEF;
   --border: #E8E0DB;
+  --scrollbar-track: #F5F3FF;
+  --scrollbar-thumb: #C084FC;
 }
 
 /* Dark Mode */
@@ -36,6 +38,8 @@
   --primary-hover: #FF4A73;
   --accent: #2A1A1D;
   --border: #2A2A2D;
+  --scrollbar-track: #1E1B4B;
+  --scrollbar-thumb: #A855F7;
 }
 
 @layer base {
@@ -47,9 +51,15 @@
 
   /* Custom scrollbar (cozy purple style) */
   ::-webkit-scrollbar { width: 8px; height: 8px; }
-  ::-webkit-scrollbar-track { background: transparent; }
-  ::-webkit-scrollbar-thumb { background: #c084fc; border-radius: 999px; }
-  ::-webkit-scrollbar-thumb:hover { background: #a855f7; }
+  ::-webkit-scrollbar-track { background: var(--scrollbar-track); border-radius: 999px; }
+  ::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 999px; }
+  ::-webkit-scrollbar-thumb:hover { background: #8b5cf6; }
+
+  /* Firefox Scrollbar Support */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+  }
 }
 
 /* Custom floating and bobbing animations */
