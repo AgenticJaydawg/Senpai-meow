@@ -131,14 +131,12 @@ function getCurrentSeasonAndYear() {
 }
 
 const ANILIST_QUERY = `
-  query ($season: MediaSeason, $seasonYear: Int, $page: Int, $perPage: Int) {
+  query ($page: Int, $perPage: Int) {
     Page(page: $page, perPage: $perPage) {
       pageInfo {
         hasNextPage
       }
       media(
-        season: $season,
-        seasonYear: $seasonYear,
         status: RELEASING,
         type: ANIME,
         isAdult: false
@@ -181,7 +179,7 @@ const ANILIST_QUERY = `
   }
 `;
 
-async function fetchFromAniList(season: string, year: number): Promise<AnimeMedia[]> {
+async function fetchFromAniList(): Promise<AnimeMedia[]> {
   let mediaList: AnimeMedia[] = [];
   let page = 1;
   let hasNextPage = true;
@@ -197,8 +195,6 @@ async function fetchFromAniList(season: string, year: number): Promise<AnimeMedi
       body: JSON.stringify({
         query: ANILIST_QUERY,
         variables: {
-          season,
-          seasonYear: year,
           page,
           perPage: 50,
         },
@@ -259,9 +255,8 @@ export async function getSeasonalAnime(): Promise<{ mediaList: AnimeMedia[]; las
   }
 
   // 3. Cache is stale or non-existent, try to fetch from AniList
-  const { season, year } = getCurrentSeasonAndYear();
   try {
-    const freshMediaList = await fetchFromAniList(season, year);
+    const freshMediaList = await fetchFromAniList();
 
     if (freshMediaList.length > 0) {
       const lastRefreshed = new Date().toLocaleString('en-US', {
