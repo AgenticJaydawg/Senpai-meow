@@ -1,5 +1,7 @@
 # Senpai Meow 🐾 - Cozy Anime Airing Schedule
 
+🔗 **Live site:** https://senpai-meow.vercel.app/
+
 Welcome to **Senpai Meow 🐾**, a clean, ad-free, cozy anime schedule website. This app keeps track of all currently airing anime for the season, displaying them in a beautifully formatted schedule using local timezone detection and ticking countdown timers.
 
 ---
